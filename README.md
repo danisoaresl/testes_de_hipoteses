@@ -1,2 +1,1 @@
-# testes_de_hipoteses
-#dataanalytics #womakerscode
+Exercício individual #womakerscode
